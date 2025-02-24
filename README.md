@@ -15,3 +15,5 @@ During gameplay, scores are updated and saved ensuring progress is preserved acr
 Once you start playing, your goal is to go through the green tubes by clicking either the space bar or mouse, and every time you enter a tube, you gain a point and a sound plays. A sound also plays when you fly with the bird and when you die. 
 
 Upon death, a game over screen pops up with the message of clicking space to continue to the leaderboard, and another message pops up saying to click any button to restart the game. 
+
+<img width="1440" src = “flappybird.gif">
