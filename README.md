@@ -16,4 +16,4 @@ Once you start playing, your goal is to go through the green tubes by clicking e
 
 Upon death, a game over screen pops up with the message of clicking space to continue to the leaderboard, and another message pops up saying to click any button to restart the game. 
 
-<img width="1440" src = “flappybird.gif">
+<img width = "400" src = https://github.com/user-attachments/assets/2da99593-0572-452a-a6ae-a6bee27fe5af>
